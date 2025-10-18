@@ -1,49 +1,6 @@
 # 💫 About Me: i'm Iksan Hadi!
 
 Hallo teman teman semua saya Iksan Hadi, mahasiswa yang berkuliah di kampus STIKOM EL Rahma Bogor<br>saya bersal dari provinsi sulawwsi tenggara. trima kasih suda bekunjung di profile saya.<br>
-# 👋 Hi there, I'm **Iksan Hadi**  
-
-💻 Web Developer | ⚙️ Tech Explorer | 🚀 Lifelong Learner  
-
-I'm passionate about building clean, fast, and user-friendly web applications.  
-I love exploring new technologies and constantly improving my craft.
-
----
-
-### 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=flat&logo=tailwindcss)
-![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
-![VSCode](https://img.shields.io/badge/-VSCode-000?style=flat&logo=visualstudiocode)
-
----
-
-### 📈 GitHub Stats
-![Iksan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iksanhadi&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iksanhadi&layout=compact&theme=tokyonight)
-
----
-
-### 🧠 Currently Learning
-- TypeScript  
-- Next.js  
-- UI/UX Design Fundamentals  
-
----
-
-### 💬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/iksanhadi)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/iksanhadi)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](#)
-
----
-
-✨ *"Keep learning, keep building, and never stop growing."*
-  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1HMmAgYQVp/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/oyydiuu?igsh=MjloMGVvand6OGYw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/iksan-hadi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tiktok.com/@hadiiiii022) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zximpostor@gmail.com) 
