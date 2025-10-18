@@ -1,6 +1,13 @@
 # 💫 About Me: i'm Iksan Hadi!
 Hallo teman teman semua saya Iksan Hadi, mahasiswa yang berkuliah di kampus STIKOM EL Rahma Bogor<br>saya bersal dari provinsi sulawwsi tenggara. trima kasih suda bekunjung di profile saya.<br>
 
+💻 **<span style="color:#ff3b3b;">Code. Create. Conquer.</span>**  
+🔥 Developer • Dreamer • Doer  
+❤️ Passion for clean code & timeless design  
+📍 Based in <span style="color:#ff3b3b;">Everywhere</span>  
+🕰️ Est. <span style="color:#ff3b3b;">2025</span>  
+
+> _“Simplicity is the soul of efficiency.”_  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1HMmAgYQVp/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/oyydiuu?igsh=MjloMGVvand6OGYw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/iksan-hadi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tiktok.com/@hadiiiii022) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zximpostor@gmail.com) 
