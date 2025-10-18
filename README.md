@@ -4,7 +4,7 @@ Hallo teman teman semua saya Iksan Hadi, mahasiswa yang berkuliah di kampus STIK
 💻 **<span style="color:#ff3b3b;">Code. Create. Conquer.</span>**  
 🔥 Developer • Dreamer • Doer  
 ❤️ Passion for clean code & timeless design  
-📍 Based in <span style="color:#ff3b3b;">Everywhere</span>  
+📍 Based in <span style="color: merah;">Everywhere</span>  
 🕰️ Est. <span style="color:#ff3b3b;">2025</span>  
 
 > _“Simplicity is the soul of efficiency.”_  
