@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: i'm Iksan Hadi!
 Hallo teman teman semua saya Iksan Hadi, mahasiswa yang berkuliah di kampus STIKOM EL Rahma Bogor<br>saya bersal dari provinsi sulawwsi tenggara. trima kasih suda bekunjung di profile saya.<br>
 
 
