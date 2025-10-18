@@ -1,5 +1,48 @@
 # 💫 About Me: i'm Iksan Hadi!
+
 Hallo teman teman semua saya Iksan Hadi, mahasiswa yang berkuliah di kampus STIKOM EL Rahma Bogor<br>saya bersal dari provinsi sulawwsi tenggara. trima kasih suda bekunjung di profile saya.<br>
+# 👋 Hi there, I'm **Iksan Hadi**  
+
+💻 Web Developer | ⚙️ Tech Explorer | 🚀 Lifelong Learner  
+
+I'm passionate about building clean, fast, and user-friendly web applications.  
+I love exploring new technologies and constantly improving my craft.
+
+---
+
+### 🛠️ Tech Stack
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=flat&logo=tailwindcss)
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+![VSCode](https://img.shields.io/badge/-VSCode-000?style=flat&logo=visualstudiocode)
+
+---
+
+### 📈 GitHub Stats
+![Iksan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iksanhadi&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iksanhadi&layout=compact&theme=tokyonight)
+
+---
+
+### 🧠 Currently Learning
+- TypeScript  
+- Next.js  
+- UI/UX Design Fundamentals  
+
+---
+
+### 💬 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/iksanhadi)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/iksanhadi)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](#)
+
+---
+
+✨ *"Keep learning, keep building, and never stop growing."*
   
 
 ## 🌐 Socials:
